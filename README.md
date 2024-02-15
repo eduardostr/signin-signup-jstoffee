@@ -1,6 +1,6 @@
 # signin-signup-jsvanilla
 
-Um projeto onde é possível realizar um cadastro, acessar a tela de login e em seguida visualizar uma tela principal com o seu nome cadastrado.
+Signin Signup é uma iniciativa que permite efetuar um registro, entrar na área de autenticação e, posteriormente, visualizar uma página inicial com o nome que foi registrado.
 
 ## Tecnologias utilizadas:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/></a>
